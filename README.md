@@ -14,6 +14,6 @@
     <footer>
         <p>Copyright &copy; SherpaG 2023</p>
     </footer>
-</font color>
+</font>
 </body>
 </html>
