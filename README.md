@@ -16,7 +16,7 @@
 
 <p><a href="https://github.com/sherpag" target="_blank"></a></p>
 
-<p><a href="https://youtube.com/@sherpag76" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/6422/6422215.png" data-src="https://cdn-icons-png.flaticon.com/128/6422/6422215.png" alt="Youtube free interface icon" title="Youtube free interface icon" width="24" height="24" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/6422/6422215.png 4x">YouTube</a></p>
+<p><a href="https://youtube.com/@sherpag76" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/6422/6422215.png" data-src="https://cdn-icons-png.flaticon.com/128/6422/6422215.png" alt="Youtube free interface icon" title="Youtube free interface icon" width="24" height="24" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/6422/6422215.png 4x"></a>YouTube</p>
 </footer>
 </font>
 </body>
