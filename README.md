@@ -13,6 +13,9 @@
      </section>
     <footer>
         <p>Copyright &copy; SherpaG 2023</p>
+        <a href="https://github.com/sherpag" target="_blank">My GitHub Page</a>
+        <a href="https://youtube.com/SherpaG76" target="_blank">My YouTube Page</a>
+        <a href="https://instagram.com/sherpag" target="_blank">My Instagram Page</a>
     </footer>
 </font>
 </body>
