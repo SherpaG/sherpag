@@ -14,9 +14,9 @@
     <footer>
         <p>Copyright &copy; SherpaG 2023</p>
 
-<p><a href="https://github.com/sherpag" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" srcset="https://cdn-icons-png.flaticon.com/128/2111/2111432.png 4x" alt="Github" width="24" height="24"> GitHub</a></p>
-
-<p><a href="https://youtube.com/@sherpag76" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384012.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384012.png" alt="Youtube " title="Youtube " width="24" height="24" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384012.png 4x"> YouTube</a></p>
+<span class="cpl-footer--socials-text">Join us on</span>
+<br class="show_on_sml_down">
+<span class="cpl-footer--socials-icons"> <span><span class="cpl-i-circle cpl-i--facebook"></span> <a class="cpl-no-icon cpl-link-ext" rel="noopener" href="https://www.github.com/sherpag" target="_blank">Github</a></span>  <span><span class="cpl-i-circle cpl-i--youtube"></span> <a class="cpl-no-icon cpl-link-ext" rel="noopener" href="https://www.youtube.com/channel/UCvTDwNaHkYx6PiWQryRnSKw" target="_blank">YouTube</a></span></span>
 </footer>
 </font>
 </body>
