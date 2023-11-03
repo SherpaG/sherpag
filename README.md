@@ -10,7 +10,6 @@
   <section id="home">
         <h1>Welcome</h1>
 <br>
-<hr>
      </section>
     <footer>
         <p>Copyright &copy; SherpaG 2023</p>
