@@ -12,7 +12,10 @@
 <br>
      </section>
     <footer>
-        <p>Copyright &copy; SherpaG 2023</p>
+        <p>Copyright &copy; SherpaG 2025</p>
+        <div class="Contact us at:">
+        <p>Gmail -<a href="mailto:sherpageli76@gmail.com"> sherpageli76@gmail.com</a></p>
+        </div>
 </footer>
 </font>
 </body>
